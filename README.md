@@ -19,13 +19,13 @@ Este ✨ _README_ ✨ contiene informacion de _Ebliss Yissela Segovia Venales_ :
 
 ### INFORMACION PERSONAL
 
-**Nombre:** Ebliss Yissela Segovia Venales
+**Nombre:** Ebliss Yissela Segovia Venales:musical_note:
 
-**EDAD:** 21
+**EDAD:** 21:boom:
 
-**COLOR FAVORITO:** Amarillo
+**COLOR FAVORITO:** Amarillo:yellow_heart:
 
-**ESTATURA:** 1.66 
+**ESTATURA:** 1.66:star2:
 
 
 ### DATOS ACADEMICOS
@@ -34,8 +34,16 @@ Este ✨ _README_ ✨ contiene informacion de _Ebliss Yissela Segovia Venales_ :
 :green_heart:Estudiante de **_Ingenieria Catastral y Geodesia_** (OCTAVO SEMESTRE):shipit:
 
 
-:heart_eyes:ALMA MATER:  **_Universidad Distrital Francisco Jose de Caldas_**⚡ 
+:heart_eyes:ALMA MATER: **_Universidad Distrital Francisco Jose de Caldas_** ⚡ 
 
-- 👯 Curso de reconocedor predial con el IGAC (Instituto Geográfico Agustín Codazzi)
+- 👯 Curso de reconocedor predial con el **_IGAC_** (Instituto Geográfico Agustín Codazzi)
 
-- 🌱 Actualmente me encuntro realizando un curso de programitacion con la RUTA 2 de MISION TIC con la UTP
+- 🌱 Actualmente me encuentro realizando un curso de programacion con la **_RUTA 2 de MISION TIC_** con la UTP
+   
+     **MISION TIC:** 
+     - **Ciclo 1**: Python mediante Visual Studio Code
+     - **Ciclo 2**: Java mediante Visual Studio Code
+
+- 😄 Proyecto Coloring Colombia
+
+- 📫 Puedes contactarme por medio de correo electronico eysegoviav@correo.udistrital.edu.co o segoviavenales@hotmail.com
