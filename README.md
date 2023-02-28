@@ -31,7 +31,7 @@ Este ✨ _README_ ✨ contiene informacion de _Ebliss Yissela Segovia Venales_ :
 ### DATOS ACADEMICOS
 
 
-:green_heart:Estudiante de **_Ingenieria Catastral y Geodesia_** (OCTAVO SEMESTRE):shipit:
+:green_heart:Estudiante de **_Ingenieria Catastral y Geodesia_** (NOVENO SEMESTRE):shipit:
 
 
 :heart_eyes:ALMA MATER: **_Universidad Distrital Francisco Jose de Caldas_** ⚡ 
